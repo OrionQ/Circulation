@@ -3,3 +3,4 @@
 
 
 [![Demo video](http://img.youtube.com/vi/FC2Ra8QGNdo/0.jpg)](http://www.youtube.com/watch?v=FC2Ra8QGNdo "Circulation Demo")
+(click the image to jump to the demo video)
